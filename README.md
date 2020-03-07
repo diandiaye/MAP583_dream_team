@@ -7,6 +7,8 @@ https://github.com/tensorflow/models/blob/master/research/deeplab/deeplab_demo.i
 https://github.com/advaitsave/Multiclass-Semantic-Segmentation-CamVid/blob/master/Multiclass%20Semantic%20Segmentation%20using%20U-Net.ipynb
 
 
-https://medium.com/@keremturgutlu/semantic-segmentation-u-net-part-1-d8d6f6005066
+https://medium.com/@keremturgutlu/semantic-segmentation-u-net-part-1-d8d6f6005066  
+
+https://github.com/diandiaye/cityscapesScripts/blob/master/cityscapesscripts/helpers/labels.py
 
 
